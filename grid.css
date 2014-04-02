@@ -42,10 +42,6 @@ html {
   *zoom: 1;
 }
 
-.row {
-  overflow: hidden;
-}
-
 .column {
   float: left;
   width: 100%;
